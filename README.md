@@ -13,6 +13,8 @@ It will be 3D printed and laser cut with acrylic to create a soft diffusion of l
 Getting the parts to fit together. I need to laser cut and sand the acrylic to the right size to get it flush with the 3D print.
 
 ## timeline
-Week 1: print and cut
-Week 2: wire and code
+Week 1: wire and code
+
+Week 2: print and cut
+
 Week 3: present
